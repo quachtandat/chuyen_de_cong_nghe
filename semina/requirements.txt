@@ -1,0 +1,7 @@
+tensorflow
+tensorflow-hub
+Pillow
+numpy
+pandas
+ipython
+six
