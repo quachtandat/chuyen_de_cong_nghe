@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 25
+names: ['banh mi', 'ca rot', 'canh', 'chan ga', 'chanh', 'com', 'do chien', 'do cuon', 'do ngot', 'do nuong', 'do song', 'do xao', 'long nuong', 'mo hanh', 'ngo', 'nuoc tuong', 'oc', 'rau thap cam', 'roi', 'tai heo', 'thit kho', 'thit nuong', 'thuc an', 'tieu', 'tuong ot']
+
+roboflow:
+  workspace: test-4f8kb
+  project: set1-h42i7
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/test-4f8kb/set1-h42i7/dataset/2
